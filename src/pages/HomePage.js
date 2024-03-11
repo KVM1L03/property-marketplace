@@ -108,6 +108,7 @@ const HomePage = () => {
                     <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
                         {filteredListings.map((listing, index) => (
                             <Card
+                                key={index}
                                 img={listing.img}
                                 description={listing.description}
                                 location={listing.location}
