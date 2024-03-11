@@ -1,0 +1,55 @@
+{
+    "listings": [
+        {
+            "title": "Przestronny dom z 3 sypialniami",
+            "description": "Piękny dom z dużym ogrodem i nowoczesnymi udogodnieniami. Doskonałe miejsce do zamieszkania dla całej rodziny. Ciesz się przestronnymi przestrzeniami mieszkalnymi, wygodnymi sypialniami i oazą w ogrodzie.",
+            "price": 1200000,
+            "currency": "PLN",
+            "location": "ul. Główna 123, Warszawa",
+            "img": [
+                "https://images.unsplash.com/photo-1592595896616-c37162298647?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://images.unsplash.com/photo-1560185007-cde436f6a4d0?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            ],
+            "country": "Poland"
+        },
+        {
+            "title": "Luksusowe mieszkanie z widokiem na morze",
+            "description": "Oszałamiające mieszkanie z panoramicznym widokiem na morze. Doświadcz luksusu i komfortu w jednym miejscu. Ciesz się przestronnymi przestrzeniami mieszkalnymi, wysokiej jakości wykończeniami i prywatnym balkonem z widokiem na ocean.",
+            "price": 1500000,
+            "currency": "PLN",
+            "location": "ul. Plażowa 456, Gdańsk",
+            "img": [
+                "https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://images.unsplash.com/photo-1602774895672-b553538bceb9?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://images.unsplash.com/photo-1612965607446-25e1332775ae?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            ],
+            "country": "Poland"
+        },
+        {
+            "title": "Cozy studio in a vibrant neighborhood",
+            "description": "Charming studio in a bustling neighborhood. Perfect for a single person or a couple. Enjoy the convenience of nearby cafes, restaurants, and shops, as well as easy access to public transportation.",
+            "price": 430000,
+            "currency": "EUR",
+            "location": "789 Center Street, Berlin",
+            "img": [
+                "https://images.unsplash.com/photo-1570129477492-45c003edd2be?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://images.unsplash.com/photo-1616594039964-ae9021a400a0?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            ],
+            "country": "Germany"
+        },
+        {
+            "title": "Cozy studio in a vibrant neighborhood",
+            "description": "Charming studio in a bustling neighborhood. Perfect for a single person or a couple. Enjoy the convenience of nearby cafes, restaurants, and shops, as well as easy access to public transportation.",
+            "price": 500000,
+            "currency": "EUR",
+            "location": "789 Center Street, Paris",
+            "img": [
+                "https://plus.unsplash.com/premium_photo-1661883964999-c1bcb57a7357?q=80&w=2028&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "https://images.unsplash.com/photo-1604014237800-1c9102c219da?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            ],
+            "country": "France"
+        }
+    ]
+}
